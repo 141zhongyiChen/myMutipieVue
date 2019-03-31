@@ -1,0 +1,1662 @@
+{
+  "listTreeData": [
+    {
+      "title": "家家乐路",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000018279",
+        "terminalCode": "1000000000018279",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "JiaJiaLeLu"
+      }
+    },
+    {
+      "title": "博古山路箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000033778",
+        "terminalCode": "1000000000033778",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "BoGuShanLuXiangBian"
+      }
+    },
+    {
+      "title": "财富小区表箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000034422",
+        "terminalCode": "1000000000034422",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "CaiFuXiaoQuBiaoXiang"
+      }
+    },
+    {
+      "title": "长江北路箱变（广本）",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037961",
+        "terminalCode": "1000000000037961",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "ChangJiangBeiLuXiangBian（GuangBen）"
+      }
+    },
+    {
+      "title": "大地商业广场表箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000034416",
+        "terminalCode": "1000000000034416",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "DaDiShangYeGuangChangBiaoXiang"
+      }
+    },
+    {
+      "title": "春藤小镇",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000028057",
+        "terminalCode": "1000000000028057",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "ChunTengXiaoZhen"
+      }
+    },
+    {
+      "title": "长兴路表箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040353",
+        "terminalCode": "1000000000040353",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "ChangXingLuBiaoXiang"
+      }
+    },
+    {
+      "title": "东湖立交3号",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040355",
+        "terminalCode": "1000000000040355",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "DongHuLiJiao3Hao"
+      }
+    },
+    {
+      "title": "东帆国际大酒店",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000028059",
+        "terminalCode": "1000000000028059",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "DongFanGuoJiDaJiuDian"
+      }
+    },
+    {
+      "title": "戴家岭箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000031665",
+        "terminalCode": "1000000000031665",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "DaiJiaLingXiangBian"
+      }
+    },
+    {
+      "title": "东湖立交6#",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040344",
+        "terminalCode": "1000000000040344",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "DongHuLiJiao6#"
+      }
+    },
+    {
+      "title": "动力谷大夏地下室",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000024137",
+        "terminalCode": "1000000000024137",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "DongLiGuDaXiaDiXiaShi"
+      }
+    },
+    {
+      "title": "杜鹃小区",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037990",
+        "terminalCode": "1000000000037990",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "DuJuanXiaoQu"
+      }
+    },
+    {
+      "title": "董服二路箱变(未移交不送电)",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000031664",
+        "terminalCode": "1000000000031664",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "DongFuErLuXiangBian(WeiYiJiaoBuSongDian)"
+      }
+    },
+    {
+      "title": "东湖立交箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000031663",
+        "terminalCode": "1000000000031663",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "DongHuLiJiaoXiangBian"
+      }
+    },
+    {
+      "title": "东湖立交7#",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040345",
+        "terminalCode": "1000000000040345",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "DongHuLiJiao7#"
+      }
+    },
+    {
+      "title": "枫溪大桥8号墩西侧",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000035953",
+        "terminalCode": "1000000000035953",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "FengXiDaQiao8HaoDunXiCe"
+      }
+    },
+    {
+      "title": "枫溪大桥8号墩东侧",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000035950",
+        "terminalCode": "1000000000035950",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "FengXiDaQiao8HaoDunDongCe"
+      }
+    },
+    {
+      "title": "东湖立交5号",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040354",
+        "terminalCode": "1000000000040354",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "DongHuLiJiao5Hao"
+      }
+    },
+    {
+      "title": "东湖立交4号",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040357",
+        "terminalCode": "1000000000040357",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "DongHuLiJiao4Hao"
+      }
+    },
+    {
+      "title": "枫溪大桥桥北桥下表箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000034413",
+        "terminalCode": "1000000000034413",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "FengXiDaQiaoQiaoBeiQiaoXiaBiaoXiang"
+      }
+    },
+    {
+      "title": "枫溪大桥桥北（未装卡）",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000031668",
+        "terminalCode": "1000000000031668",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "FengXiDaQiaoQiaoBei（WeiZhuangKa）"
+      }
+    },
+    {
+      "title": "枫溪大桥9号墩西侧",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000035952",
+        "terminalCode": "1000000000035952",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "FengXiDaQiao9HaoDunXiCe"
+      }
+    },
+    {
+      "title": "枫溪大桥9号墩东侧",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000035951",
+        "terminalCode": "1000000000035951",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "FengXiDaQiao9HaoDunDongCe"
+      }
+    },
+    {
+      "title": "高科总部壹号AB座中间",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040348",
+        "terminalCode": "1000000000040348",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "GaoKeZongBuYiHaoABZuoZhongJian"
+      }
+    },
+    {
+      "title": "高科总部壹号A座4号箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040346",
+        "terminalCode": "1000000000040346",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "GaoKeZongBuYiHaoAZuo4HaoXiang"
+      }
+    },
+    {
+      "title": "高科总部壹号B座4号箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040359",
+        "terminalCode": "1000000000040359",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "GaoKeZongBuYiHaoBZuo4HaoXiang"
+      }
+    },
+    {
+      "title": "高新公馆",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000033012",
+        "terminalCode": "1000000000033012",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "GaoXinGongGuan"
+      }
+    },
+    {
+      "title": "红港路西箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000024408",
+        "terminalCode": "1000000000024408",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "HongGangLuXiXiangBian"
+      }
+    },
+    {
+      "title": "建宁街表箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000034421",
+        "terminalCode": "1000000000034421",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "JianNingJieBiaoXiang"
+      }
+    },
+    {
+      "title": "红港路东箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000021501",
+        "terminalCode": "1000000000021501",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "HongGangLuDongXiangBian"
+      }
+    },
+    {
+      "title": "高科总部壹号B座6号箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040350",
+        "terminalCode": "1000000000040350",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "GaoKeZongBuYiHaoBZuo6HaoXiang"
+      }
+    },
+    {
+      "title": "高科总部壹号A座2号箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040343",
+        "terminalCode": "1000000000040343",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "GaoKeZongBuYiHaoAZuo2HaoXiang"
+      }
+    },
+    {
+      "title": "高科总部壹号A座1号箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040347",
+        "terminalCode": "1000000000040347",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "GaoKeZongBuYiHaoAZuo1HaoXiang"
+      }
+    },
+    {
+      "title": "航机路（株洲南站）",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000026414",
+        "terminalCode": "1000000000026414",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "HangJiLu（ZhuZhouNanZhan）"
+      }
+    },
+    {
+      "title": "高科总部壹号B座5号箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040360",
+        "terminalCode": "1000000000040360",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "GaoKeZongBuYiHaoBZuo5HaoXiang"
+      }
+    },
+    {
+      "title": "高科总部壹号B座1号箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040362",
+        "terminalCode": "1000000000040362",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "GaoKeZongBuYiHaoBZuo1HaoXiang"
+      }
+    },
+    {
+      "title": "枫溪大桥桥南桥下表箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000034412",
+        "terminalCode": "1000000000034412",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "FengXiDaQiaoQiaoNanQiaoXiaBiaoXiang"
+      }
+    },
+    {
+      "title": "枫溪大桥桥南26号墩",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000034409",
+        "terminalCode": "1000000000034409",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "FengXiDaQiaoQiaoNan26HaoDun"
+      }
+    },
+    {
+      "title": "机场大道道百路交叉口",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000047124",
+        "terminalCode": "1000000000047124",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "JiChangDaDaoDaoBaiLuJiaoChaKou"
+      }
+    },
+    {
+      "title": "黄河北路箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000033771",
+        "terminalCode": "1000000000033771",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "HuangHeBeiLuXiangBian"
+      }
+    },
+    {
+      "title": "荷塘大道3箱变（逸都花园）",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000033780",
+        "terminalCode": "1000000000033780",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "HeTangDaDao3XiangBian（YiDuHuaYuan）"
+      }
+    },
+    {
+      "title": "建设中路麻纺厂表箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000034405",
+        "terminalCode": "1000000000034405",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "JianSheZhongLuMaFangChangBiaoXiang"
+      }
+    },
+    {
+      "title": "建设中路华融湘江银行门口",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000034407",
+        "terminalCode": "1000000000034407",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "JianSheZhongLuHuaRongXiangJiangYinHangMenKou"
+      }
+    },
+    {
+      "title": "建宁新村表箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000034404",
+        "terminalCode": "1000000000034404",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "JianNingXinCunBiaoXiang"
+      }
+    },
+    {
+      "title": "京港澳高速",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040356",
+        "terminalCode": "1000000000040356",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "JingGangAoGaoSu"
+      }
+    },
+    {
+      "title": "金塘大道路灯箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037904",
+        "terminalCode": "1000000000037904",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "JinTangDaDaoLuDengXiangBian"
+      }
+    },
+    {
+      "title": "建设中路神龙公园表箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000034415",
+        "terminalCode": "1000000000034415",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "JianSheZhongLuShenLongGongYuanBiaoXiang"
+      }
+    },
+    {
+      "title": "九方中学公交站箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037962",
+        "terminalCode": "1000000000037962",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "JiuFangZhongXueGongJiaoZhanXiangBian"
+      }
+    },
+    {
+      "title": "九八缔景城地下室",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000028053",
+        "terminalCode": "1000000000028053",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "JiuBaDiJingChengDiXiaShi"
+      }
+    },
+    {
+      "title": "君山路楚天花园",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000034420",
+        "terminalCode": "1000000000034420",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "JunShanLuChuTianHuaYuan"
+      }
+    },
+    {
+      "title": "栗雨湖公园10#",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037939",
+        "terminalCode": "1000000000037939",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "LiYuHuGongYuan10#"
+      }
+    },
+    {
+      "title": "栗雨湖公园4#",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037949",
+        "terminalCode": "1000000000037949",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "LiYuHuGongYuan4#"
+      }
+    },
+    {
+      "title": "栗雨湖公园8#",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037952",
+        "terminalCode": "1000000000037952",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "LiYuHuGongYuan8#"
+      }
+    },
+    {
+      "title": "栗雨路与规划1路路灯箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037992",
+        "terminalCode": "1000000000037992",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "LiYuLuYuGuiHua1LuLuDengXiangBian"
+      }
+    },
+    {
+      "title": "庐山一号",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000028058",
+        "terminalCode": "1000000000028058",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "LuShanYiHao"
+      }
+    },
+    {
+      "title": "南区果园路箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000047121",
+        "terminalCode": "1000000000047121",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "NanQuGuoYuanLuXiangBian"
+      }
+    },
+    {
+      "title": "南环线箱变（南华）",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000034423",
+        "terminalCode": "1000000000034423",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "NanHuanXianXiangBian（NanHua）"
+      }
+    },
+    {
+      "title": "七一路东表箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000034418",
+        "terminalCode": "1000000000034418",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "QiYiLuDongBiaoXiang"
+      }
+    },
+    {
+      "title": "南环线爱心大院",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037903",
+        "terminalCode": "1000000000037903",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "NanHuanXianAiXinDaYuan"
+      }
+    },
+    {
+      "title": "栗雨湖公园箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037988",
+        "terminalCode": "1000000000037988",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "LiYuHuGongYuanXiangBian"
+      }
+    },
+    {
+      "title": "栗雨湖公园7#",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040352",
+        "terminalCode": "1000000000040352",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "LiYuHuGongYuan7#"
+      }
+    },
+    {
+      "title": "栗雨湖公园6A#",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040339",
+        "terminalCode": "1000000000040339",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "LiYuHuGongYuan6A#"
+      }
+    },
+    {
+      "title": "栗雨湖公园6#",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037951",
+        "terminalCode": "1000000000037951",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "LiYuHuGongYuan6#"
+      }
+    },
+    {
+      "title": "栗雨湖公园5#",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040361",
+        "terminalCode": "1000000000040361",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "LiYuHuGongYuan5#"
+      }
+    },
+    {
+      "title": "栗雨湖公园3#",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037947",
+        "terminalCode": "1000000000037947",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "LiYuHuGongYuan3#"
+      }
+    },
+    {
+      "title": "栗雨湖公园2#",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037950",
+        "terminalCode": "1000000000037950",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "LiYuHuGongYuan2#"
+      }
+    },
+    {
+      "title": "庐山路箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000030009",
+        "terminalCode": "1000000000030009",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "LuShanLuXiangBian"
+      }
+    },
+    {
+      "title": "栗雨湖公园9#",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037948",
+        "terminalCode": "1000000000037948",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "LiYuHuGongYuan9#"
+      }
+    },
+    {
+      "title": "栗雨湖公园12#",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037944",
+        "terminalCode": "1000000000037944",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "LiYuHuGongYuan12#"
+      }
+    },
+    {
+      "title": "栗雨湖公园11#",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037946",
+        "terminalCode": "1000000000037946",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "LiYuHuGongYuan11#"
+      }
+    },
+    {
+      "title": "栗雨湖公园1#",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037954",
+        "terminalCode": "1000000000037954",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "LiYuHuGongYuan1#"
+      }
+    },
+    {
+      "title": "清水小学表箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000035956",
+        "terminalCode": "1000000000035956",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "QingShuiXiaoXueBiaoXiang"
+      }
+    },
+    {
+      "title": "石峰大桥底东",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000042714",
+        "terminalCode": "1000000000042714",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "ShiFengDaQiaoDiDong"
+      }
+    },
+    {
+      "title": "汽博园支一路箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000033774",
+        "terminalCode": "1000000000033774",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "QiBoYuanZhiYiLuXiangBian"
+      }
+    },
+    {
+      "title": "七一路西表箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000034417",
+        "terminalCode": "1000000000034417",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "QiYiLuXiBiaoXiang"
+      }
+    },
+    {
+      "title": "昆仑山路箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037994",
+        "terminalCode": "1000000000037994",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "KunLunShanLuXiangBian"
+      }
+    },
+    {
+      "title": "九朗山站箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000031640",
+        "terminalCode": "1000000000031640",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "JiuLangShanZhanXiangBian"
+      }
+    },
+    {
+      "title": "九郎山景观大道2号箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000033726",
+        "terminalCode": "1000000000033726",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "JiuLangShanJingGuanDaDao2HaoXiangBian"
+      }
+    },
+    {
+      "title": "九郎山景观大道1号箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000031636",
+        "terminalCode": "1000000000031636",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "JiuLangShanJingGuanDaDao1HaoXiangBian"
+      }
+    },
+    {
+      "title": "金仙路金马路口箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000026415",
+        "terminalCode": "1000000000026415",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "JinXianLuJinMaLuKouXiangBian"
+      }
+    },
+    {
+      "title": "庆云山路1号箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000034411",
+        "terminalCode": "1000000000034411",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "QingYunShanLu1HaoXiang"
+      }
+    },
+    {
+      "title": "人大箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000033775",
+        "terminalCode": "1000000000033775",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "RenDaXiangBian"
+      }
+    },
+    {
+      "title": "庆云山路2号",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040340",
+        "terminalCode": "1000000000040340",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "QingYunShanLu2Hao"
+      }
+    },
+    {
+      "title": "汽博园规划30号箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000031669",
+        "terminalCode": "1000000000031669",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "QiBoYuanGuiHua30HaoXiangBian"
+      }
+    },
+    {
+      "title": "四桥东亮化表箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037905",
+        "terminalCode": "1000000000037905",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "SiQiaoDongLiangHuaBiaoXiang"
+      }
+    },
+    {
+      "title": "时代大道联城路口箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000026413",
+        "terminalCode": "1000000000026413",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "ShiDaiDaDaoLianChengLuKouXiangBian"
+      }
+    },
+    {
+      "title": "泰山西路2号箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037991",
+        "terminalCode": "1000000000037991",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "TaiShanXiLu2HaoXiangBian"
+      }
+    },
+    {
+      "title": "四桥西亮化表箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040351",
+        "terminalCode": "1000000000040351",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "SiQiaoXiLiangHuaBiaoXiang"
+      }
+    },
+    {
+      "title": "天梭广场1号箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037942",
+        "terminalCode": "1000000000037942",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "TianSuoGuangChang1HaoXiang"
+      }
+    },
+    {
+      "title": "天鹅湖小区（11栋）表箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000034408",
+        "terminalCode": "1000000000034408",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "TianEHuXiaoQu（11Dong）BiaoXiang"
+      }
+    },
+    {
+      "title": "泰山西路湖南工业大学门口",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000028374",
+        "terminalCode": "1000000000028374",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "TaiShanXiLuHuNanGongYeDaXueMenKou"
+      }
+    },
+    {
+      "title": "天梭广场3号亮化箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040358",
+        "terminalCode": "1000000000040358",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "TianSuoGuangChang3HaoLiangHuaXiang"
+      }
+    },
+    {
+      "title": "天梭广场2号亮化箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040349",
+        "terminalCode": "1000000000040349",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "TianSuoGuangChang2HaoLiangHuaXiang"
+      }
+    },
+    {
+      "title": "天梭广场5号亮化表箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037940",
+        "terminalCode": "1000000000037940",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "TianSuoGuangChang5HaoLiangHuaBiaoXiang"
+      }
+    },
+    {
+      "title": "天易大道4号箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037964",
+        "terminalCode": "1000000000037964",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "TianYiDaDao4HaoXiangBian"
+      }
+    },
+    {
+      "title": "天梭广场6号亮化表箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037938",
+        "terminalCode": "1000000000037938",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "TianSuoGuangChang6HaoLiangHuaBiaoXiang"
+      }
+    },
+    {
+      "title": "天梭广场4号亮化表箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037941",
+        "terminalCode": "1000000000037941",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "TianSuoGuangChang4HaoLiangHuaBiaoXiang"
+      }
+    },
+    {
+      "title": "天元区政府政务中心4楼楼顶",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040319",
+        "terminalCode": "1000000000040319",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "TianYuanQuZhengFuZhengWuZhongXin4LouLouDing"
+      }
+    },
+    {
+      "title": "天易公路万丰路口箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000026417",
+        "terminalCode": "1000000000026417",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "TianYiGongLuWanFengLuKouXiangBian"
+      }
+    },
+    {
+      "title": "田心东站箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000026412",
+        "terminalCode": "1000000000026412",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "TianXinDongZhanXiangBian"
+      }
+    },
+    {
+      "title": "田林路延伸段箱变二期",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000026403",
+        "terminalCode": "1000000000026403",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "TianLinLuYanShenDuanXiangBianErQi"
+      }
+    },
+    {
+      "title": "外环路箱变(未移交不送电)",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000031661",
+        "terminalCode": "1000000000031661",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "WaiHuanLuXiangBian(WeiYiJiaoBuSongDian)"
+      }
+    },
+    {
+      "title": "万丰山公园1#",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037937",
+        "terminalCode": "1000000000037937",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "WanFengShanGongYuan1#"
+      }
+    },
+    {
+      "title": "万丰路新东路箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000026411",
+        "terminalCode": "1000000000026411",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "WanFengLuXinDongLuXiangBian"
+      }
+    },
+    {
+      "title": "铁东路箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000047122",
+        "terminalCode": "1000000000047122",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "TieDongLuXiangBian"
+      }
+    },
+    {
+      "title": "万丰山公园2#",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037943",
+        "terminalCode": "1000000000037943",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "WanFengShanGongYuan2#"
+      }
+    },
+    {
+      "title": "万丰山公园4#",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037936",
+        "terminalCode": "1000000000037936",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "WanFengShanGongYuan4#"
+      }
+    },
+    {
+      "title": "万丰山公园3#",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037945",
+        "terminalCode": "1000000000037945",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "WanFengShanGongYuan3#"
+      }
+    },
+    {
+      "title": "万丰山公园5#",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037955",
+        "terminalCode": "1000000000037955",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "WanFengShanGongYuan5#"
+      }
+    },
+    {
+      "title": "西环线王家坪路口",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000034419",
+        "terminalCode": "1000000000034419",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "XiHuanXianWangJiaPingLuKou"
+      }
+    },
+    {
+      "title": "五桥东箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000031670",
+        "terminalCode": "1000000000031670",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "WuQiaoDongXiangBian"
+      }
+    },
+    {
+      "title": "仙月环路新马南路箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000030000",
+        "terminalCode": "1000000000030000",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "XianYueHuanLuXinMaNanLuXiangBian"
+      }
+    },
+    {
+      "title": "仙月环路箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037963",
+        "terminalCode": "1000000000037963",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "XianYueHuanLuXiangBian"
+      }
+    },
+    {
+      "title": "湘大路4号表箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000034406",
+        "terminalCode": "1000000000034406",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "XiangDaLu4HaoBiaoXiang"
+      }
+    },
+    {
+      "title": "仙月环路与万丰路交汇处箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000031667",
+        "terminalCode": "1000000000031667",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "XianYueHuanLuYuWanFengLuJiaoHuiChuXiangBian"
+      }
+    },
+    {
+      "title": "湘芸路二号路灯箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000042795",
+        "terminalCode": "1000000000042795",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "XiangYunLuErHaoLuDengXiangBian"
+      }
+    },
+    {
+      "title": "响石路箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000042792",
+        "terminalCode": "1000000000042792",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "XiangShiLuXiangBian"
+      }
+    },
+    {
+      "title": "向阳南路箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000026418",
+        "terminalCode": "1000000000026418",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "XiangYangNanLuXiangBian"
+      }
+    },
+    {
+      "title": "湘江七桥箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000026416",
+        "terminalCode": "1000000000026416",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "XiangJiangQiQiaoXiangBian"
+      }
+    },
+    {
+      "title": "新丰路与东路箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000031666",
+        "terminalCode": "1000000000031666",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "XinFengLuYuDongLuXiangBian"
+      }
+    },
+    {
+      "title": "新东路京珠高速桥下箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000047123",
+        "terminalCode": "1000000000047123",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "XinDongLuJingZhuGaoSuQiaoXiaXiangBian"
+      }
+    },
+    {
+      "title": "沿江路纺织路口箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000033773",
+        "terminalCode": "1000000000033773",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "YanJiangLuFangZhiLuKouXiangBian"
+      }
+    },
+    {
+      "title": "炎帝大道3（西站桥底）",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037960",
+        "terminalCode": "1000000000037960",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "YanDiDaDao3（XiZhanQiaoDi）"
+      }
+    },
+    {
+      "title": "新马东路下穿隧道",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040341",
+        "terminalCode": "1000000000040341",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "XinMaDongLuXiaChuanSuiDao"
+      }
+    },
+    {
+      "title": "新华东路箱变（老总工会）",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000026420",
+        "terminalCode": "1000000000026420",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "XinHuaDongLuXiangBian（LaoZongGongHui）"
+      }
+    },
+    {
+      "title": "株曲路箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037993",
+        "terminalCode": "1000000000037993",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "ZhuQuLuXiangBian"
+      }
+    },
+    {
+      "title": "钻石路表箱",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000034414",
+        "terminalCode": "1000000000034414",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "ZuanShiLuBiaoXiang"
+      }
+    },
+    {
+      "title": "珠江北路西环路桥底（白天停电）上级供电箱变颐景园",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000040363",
+        "terminalCode": "1000000000040363",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "ZhuJiangBeiLuXiHuanLuQiaoDi（BaiTianTingDian）ShangJiGongDianXiangBianYiJingYuan"
+      }
+    },
+    {
+      "title": "株洲大桥西桥面灯",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000033772",
+        "terminalCode": "1000000000033772",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "ZhuZhouDaQiaoXiQiaoMianDeng"
+      }
+    },
+    {
+      "title": "株洲大桥东桥面灯",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000033776",
+        "terminalCode": "1000000000033776",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "ZhuZhouDaQiaoDongQiaoMianDeng"
+      }
+    },
+    {
+      "title": "株洲大道3号箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000030008",
+        "terminalCode": "1000000000030008",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "ZhuZhouDaDao3HaoXiangBian"
+      }
+    },
+    {
+      "title": "株洲大道2号箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000029999",
+        "terminalCode": "1000000000029999",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "ZhuZhouDaDao2HaoXiangBian"
+      }
+    },
+    {
+      "title": "株洲大道1号箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000031662",
+        "terminalCode": "1000000000031662",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "ZhuZhouDaDao1HaoXiangBian"
+      }
+    },
+    {
+      "title": "中心广场地下室",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037953",
+        "terminalCode": "1000000000037953",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "ZhongXinGuangChangDiXiaShi"
+      }
+    },
+    {
+      "title": "御园11栋",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000028051",
+        "terminalCode": "1000000000028051",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "YuYuan11Dong"
+      }
+    },
+    {
+      "title": "迎宾路箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037989",
+        "terminalCode": "1000000000037989",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "YingBinLuXiangBian"
+      }
+    },
+    {
+      "title": "银苑小区门口箱变",
+      "children": [],
+      "objData": {
+        "runningCode": "1000000000037987",
+        "terminalCode": "1000000000037987",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "LightingRate",
+        "pinYin": "YinYuanXiaoQuMenKouXiangBian"
+      }
+    }
+  ],
+  "regionTreeData": [],
+  "lightingTypeTreeData": []
+}

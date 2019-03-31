@@ -1,0 +1,574 @@
+{
+  "listTreeData": [
+    {
+      "title": "正力公司箱变955",
+      "children": [],
+      "objData": {
+        "addressCode": "000000033994",
+        "terminalCode": "1000000000033994",
+        "longitude": 113.4195883,
+        "latitude": 22.9532886,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "ZhengLiGongSiXiangBian955"
+      }
+    },
+    {
+      "title": "亚运大道1号箱",
+      "children": [],
+      "objData": {
+        "addressCode": "100000011690",
+        "terminalCode": "1000000000020792",
+        "longitude": 113.398,
+        "latitude": 22.93811,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "YaYunDaDao1HaoXiang"
+      }
+    },
+    {
+      "title": "亚运大道2号箱",
+      "children": [],
+      "objData": {
+        "addressCode": "100000011684",
+        "terminalCode": "1000000000013989",
+        "longitude": 113.4068,
+        "latitude": 22.9394,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "YaYunDaDao2HaoXiang"
+      }
+    },
+    {
+      "title": "亚运大道3号箱",
+      "children": [],
+      "objData": {
+        "addressCode": "100000011689",
+        "terminalCode": "1000000000026600",
+        "longitude": 113.419236412109,
+        "latitude": 22.9388259701082,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "YaYunDaDao3HaoXiang"
+      }
+    },
+    {
+      "title": "南村镇新基村1号低压电房总电表",
+      "children": [],
+      "objData": {
+        "addressCode": "000000001454",
+        "terminalCode": "9000000000001454",
+        "longitude": 113.44116,
+        "latitude": 22.94395,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "NanCunZhenXinJiCun1HaoDiYaDianFangZongDianBiao"
+      }
+    },
+    {
+      "title": "南村镇新基村2号低压电房总表",
+      "children": [],
+      "objData": {
+        "addressCode": "000000001467",
+        "terminalCode": "9000000000001467",
+        "longitude": 113.44116,
+        "latitude": 22.94395,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "NanCunZhenXinJiCun2HaoDiYaDianFangZongBiao"
+      }
+    },
+    {
+      "title": "南村镇新基村3号低压电房1#变总表",
+      "children": [],
+      "objData": {
+        "addressCode": "000000001455",
+        "terminalCode": "9000000000001455",
+        "longitude": 113.44116,
+        "latitude": 22.94395,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "NanCunZhenXinJiCun3HaoDiYaDianFang1#BianZongBiao"
+      }
+    },
+    {
+      "title": "南村镇新基村3号低压电房2#变总表",
+      "children": [],
+      "objData": {
+        "addressCode": "000000001457",
+        "terminalCode": "9000000000001457",
+        "longitude": 113.44116,
+        "latitude": 22.94395,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "NanCunZhenXinJiCun3HaoDiYaDianFang2#BianZongBiao"
+      }
+    },
+    {
+      "title": "4021开关至海滨大道",
+      "children": [],
+      "objData": {
+        "addressCode": "100000011681",
+        "terminalCode": "9000000000001454",
+        "longitude": 113.4401734,
+        "latitude": 22.9584844,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "4021KaiGuanZhiHaiBinDaDao"
+      }
+    },
+    {
+      "title": "4022开关（电房用电）",
+      "children": [],
+      "objData": {
+        "addressCode": "100000011651",
+        "terminalCode": "9000000000001454",
+        "longitude": 113.4210532,
+        "latitude": 22.9538667,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "4022KaiGuan（DianFangYongDian）"
+      }
+    },
+    {
+      "title": "4023开关至新基村市场",
+      "children": [],
+      "objData": {
+        "addressCode": "100000005645",
+        "terminalCode": "9000000000001454",
+        "longitude": 113.44116,
+        "latitude": 22.94395,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "4023KaiGuanZhiXinJiCunShiChang"
+      }
+    },
+    {
+      "title": "4024开关至荔塘街",
+      "children": [],
+      "objData": {
+        "addressCode": "100000011693",
+        "terminalCode": "9000000000001454",
+        "longitude": 113.44116,
+        "latitude": 22.94395,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "4024KaiGuanZhiLiTangJie"
+      }
+    },
+    {
+      "title": "4031开关",
+      "children": [],
+      "objData": {
+        "addressCode": "100000011668",
+        "terminalCode": "9000000000001455",
+        "longitude": 113.44116,
+        "latitude": 22.94395,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "4031KaiGuan"
+      }
+    },
+    {
+      "title": "4032开关",
+      "children": [],
+      "objData": {
+        "addressCode": "100000011669",
+        "terminalCode": "9000000000001455",
+        "longitude": 113.44116,
+        "latitude": 22.94395,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "4032KaiGuan"
+      }
+    },
+    {
+      "title": "4033开关",
+      "children": [],
+      "objData": {
+        "addressCode": "100000011666",
+        "terminalCode": "9000000000001455",
+        "longitude": 113.44116,
+        "latitude": 22.94395,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "4033KaiGuan"
+      }
+    },
+    {
+      "title": "4061开关",
+      "children": [],
+      "objData": {
+        "addressCode": "100000011665",
+        "terminalCode": "9000000000001457",
+        "longitude": 113.44116,
+        "latitude": 22.94395,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "4061KaiGuan"
+      }
+    },
+    {
+      "title": "4062开关",
+      "children": [],
+      "objData": {
+        "addressCode": "100000011652",
+        "terminalCode": "9000000000001457",
+        "longitude": 113.44116,
+        "latitude": 22.94395,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "4062KaiGuan"
+      }
+    },
+    {
+      "title": "4063开关",
+      "children": [],
+      "objData": {
+        "addressCode": "100000011697",
+        "terminalCode": "9000000000001457",
+        "longitude": 113.44116,
+        "latitude": 22.94395,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "4063KaiGuan"
+      }
+    },
+    {
+      "title": "1#备用",
+      "children": [],
+      "objData": {
+        "addressCode": "100000011692",
+        "terminalCode": "9000000000001467",
+        "longitude": 113.4300175,
+        "latitude": 22.9526367,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "1#BeiYong"
+      }
+    },
+    {
+      "title": "3#桥北",
+      "children": [],
+      "objData": {
+        "addressCode": "100000011654",
+        "terminalCode": "9000000000001467",
+        "longitude": 113.4409946,
+        "latitude": 22.9314353,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "3#QiaoBei"
+      }
+    },
+    {
+      "title": "4#备用",
+      "children": [],
+      "objData": {
+        "addressCode": "100000011667",
+        "terminalCode": "9000000000001467",
+        "longitude": 113.4576296,
+        "latitude": 22.9506603,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "4#BeiYong"
+      }
+    },
+    {
+      "title": "测试369612",
+      "children": [],
+      "objData": {
+        "addressCode": "000000036961",
+        "terminalCode": "1000000000044294",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "EnergyMeter_ZL",
+        "pinYin": "CeShi369612"
+      }
+    }
+  ],
+  "regionTreeData": [
+    {
+      "title": "正力公司",
+      "children": [
+        {
+          "title": "正力公司箱变955",
+          "children": [],
+          "objData": {
+            "addressCode": "000000033994",
+            "terminalCode": "1000000000033994",
+            "longitude": 113.4195883,
+            "latitude": 22.9532886,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "ZhengLiGongSiXiangBian955"
+          }
+        },
+        {
+          "title": "正力公司配电房",
+          "children": [],
+          "objData": {
+            "addressCode": "000000001453",
+            "terminalCode": "9000000000001453",
+            "longitude": 113.4199137,
+            "latitude": 22.9537963,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "ZhengLiGongSiPeiDianFang"
+          }
+        },
+        {
+          "title": "正力会议中心503",
+          "children": [],
+          "objData": {
+            "addressCode": "000000003122",
+            "terminalCode": "1000000000028448",
+            "longitude": 113.484,
+            "latitude": 22.9556,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "ZhengLiHuiYiZhongXin503"
+          }
+        }
+      ],
+      "objData": {
+        "type": "Region",
+        "pinYin": "ZhengLiGongSi"
+      }
+    },
+    {
+      "title": "亚运大道",
+      "children": [
+        {
+          "title": "亚运大道1号箱",
+          "children": [],
+          "objData": {
+            "addressCode": "100000011690",
+            "terminalCode": "1000000000020792",
+            "longitude": 113.398,
+            "latitude": 22.93811,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "YaYunDaDao1HaoXiang"
+          }
+        },
+        {
+          "title": "亚运大道2号箱",
+          "children": [],
+          "objData": {
+            "addressCode": "100000011684",
+            "terminalCode": "1000000000013989",
+            "longitude": 113.4068,
+            "latitude": 22.9394,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "YaYunDaDao2HaoXiang"
+          }
+        },
+        {
+          "title": "亚运大道3号箱",
+          "children": [],
+          "objData": {
+            "addressCode": "100000011689",
+            "terminalCode": "1000000000026600",
+            "longitude": 113.419236412109,
+            "latitude": 22.9388259701082,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "YaYunDaDao3HaoXiang"
+          }
+        }
+      ],
+      "objData": {
+        "type": "Region",
+        "pinYin": "YaYunDaDao"
+      }
+    },
+    {
+      "title": "南村镇",
+      "children": [
+        {
+          "title": "南村镇新基村1号低压电房总电表",
+          "children": [],
+          "objData": {
+            "addressCode": "000000001454",
+            "terminalCode": "9000000000001454",
+            "longitude": 113.44116,
+            "latitude": 22.94395,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "NanCunZhenXinJiCun1HaoDiYaDianFangZongDianBiao"
+          }
+        },
+        {
+          "title": "南村镇新基村2号低压电房总表",
+          "children": [],
+          "objData": {
+            "addressCode": "000000001467",
+            "terminalCode": "9000000000001467",
+            "longitude": 113.44116,
+            "latitude": 22.94395,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "NanCunZhenXinJiCun2HaoDiYaDianFangZongBiao"
+          }
+        },
+        {
+          "title": "南村镇新基村3号低压电房1#变总表",
+          "children": [],
+          "objData": {
+            "addressCode": "000000001455",
+            "terminalCode": "9000000000001455",
+            "longitude": 113.44116,
+            "latitude": 22.94395,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "NanCunZhenXinJiCun3HaoDiYaDianFang1#BianZongBiao"
+          }
+        },
+        {
+          "title": "南村镇新基村3号低压电房2#变总表",
+          "children": [],
+          "objData": {
+            "addressCode": "000000001457",
+            "terminalCode": "9000000000001457",
+            "longitude": 113.44116,
+            "latitude": 22.94395,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "NanCunZhenXinJiCun3HaoDiYaDianFang2#BianZongBiao"
+          }
+        },
+        {
+          "title": "4021开关至海滨大道",
+          "children": [],
+          "objData": {
+            "addressCode": "100000011681",
+            "terminalCode": "9000000000001454",
+            "longitude": 113.4401734,
+            "latitude": 22.9584844,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "4021KaiGuanZhiHaiBinDaDao"
+          }
+        },
+        {
+          "title": "4022开关（电房用电）",
+          "children": [],
+          "objData": {
+            "addressCode": "100000011651",
+            "terminalCode": "9000000000001454",
+            "longitude": 113.4210532,
+            "latitude": 22.9538667,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "4022KaiGuan（DianFangYongDian）"
+          }
+        },
+        {
+          "title": "4023开关至新基村市场",
+          "children": [],
+          "objData": {
+            "addressCode": "100000005645",
+            "terminalCode": "9000000000001454",
+            "longitude": 113.44116,
+            "latitude": 22.94395,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "4023KaiGuanZhiXinJiCunShiChang"
+          }
+        },
+        {
+          "title": "4024开关至荔塘街",
+          "children": [],
+          "objData": {
+            "addressCode": "100000011693",
+            "terminalCode": "9000000000001454",
+            "longitude": 113.44116,
+            "latitude": 22.94395,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "4024KaiGuanZhiLiTangJie"
+          }
+        },
+        {
+          "title": "4031开关",
+          "children": [],
+          "objData": {
+            "addressCode": "100000011668",
+            "terminalCode": "9000000000001455",
+            "longitude": 113.44116,
+            "latitude": 22.94395,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "4031KaiGuan"
+          }
+        },
+        {
+          "title": "4032开关",
+          "children": [],
+          "objData": {
+            "addressCode": "100000011669",
+            "terminalCode": "9000000000001455",
+            "longitude": 113.44116,
+            "latitude": 22.94395,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "4032KaiGuan"
+          }
+        },
+        {
+          "title": "4033开关",
+          "children": [],
+          "objData": {
+            "addressCode": "100000011666",
+            "terminalCode": "9000000000001455",
+            "longitude": 113.44116,
+            "latitude": 22.94395,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "4033KaiGuan"
+          }
+        },
+        {
+          "title": "4061开关",
+          "children": [],
+          "objData": {
+            "addressCode": "100000011665",
+            "terminalCode": "9000000000001457",
+            "longitude": 113.44116,
+            "latitude": 22.94395,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "4061KaiGuan"
+          }
+        },
+        {
+          "title": "4062开关",
+          "children": [],
+          "objData": {
+            "addressCode": "100000011652",
+            "terminalCode": "9000000000001457",
+            "longitude": 113.44116,
+            "latitude": 22.94395,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "4062KaiGuan"
+          }
+        },
+        {
+          "title": "4063开关",
+          "children": [],
+          "objData": {
+            "addressCode": "100000011697",
+            "terminalCode": "9000000000001457",
+            "longitude": 113.44116,
+            "latitude": 22.94395,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "4063KaiGuan"
+          }
+        },
+        {
+          "title": "1#备用",
+          "children": [],
+          "objData": {
+            "addressCode": "100000011692",
+            "terminalCode": "9000000000001467",
+            "longitude": 113.4300175,
+            "latitude": 22.9526367,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "1#BeiYong"
+          }
+        },
+        {
+          "title": "3#桥北",
+          "children": [],
+          "objData": {
+            "addressCode": "100000011654",
+            "terminalCode": "9000000000001467",
+            "longitude": 113.4409946,
+            "latitude": 22.9314353,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "3#QiaoBei"
+          }
+        },
+        {
+          "title": "4#备用",
+          "children": [],
+          "objData": {
+            "addressCode": "100000011667",
+            "terminalCode": "9000000000001467",
+            "longitude": 113.4576296,
+            "latitude": 22.9506603,
+            "type": "EnergyMeter_ZL",
+            "pinYin": "4#BeiYong"
+          }
+        }
+      ],
+      "objData": {
+        "type": "Region",
+        "pinYin": "NanCunZhen"
+      }
+    }
+  ],
+  "lightingTypeTreeData": []
+}

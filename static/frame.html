@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=8">
+  <meta http-equiv="Expires" content="0">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Cache-control" content="no-cache">
+  <meta http-equiv="Cache" content="no-cache">
+  <meta charset="UTF-8">
+  <title>GIS</title>
+  <link href="./ArcGISApi/js/esri/css/esri.css" rel="stylesheet" type="text/css"/>
+  <script src="./ArcGISApi/js/store.min.js"></script>
+  <script src="./ArcGISApi/jquery-2.0.3.min.js"></script>
+  <script src="./ArcGISApi/init.js" type="text/javascript"></script>
+  <script src="./ArcGISApi/ZLArcMap.js"></script>
+  <script src="./ArcGISApi/js/gzzl/WKIDConvert.js"></script>
+  <script src="./ArcGISApi/js/gzzl/eviltransform.js"></script>
+</head>
+<body>
+<!-- 地图容器 -->
+<div id="mapDiv"></div>
+<script>
+  // 页面加载
+  window.onload = function () {
+
+    changeMaPSize()
+
+  }
+  //
+  //当浏览器窗口大小改变时，设置显示内容的高度
+  window.onresize = function (){
+
+    changeMaPSize()
+
+  }
+
+/* --------------- 地图信息加载 begin -------------------- */
+  var map;     // 地图实例
+  var ELayer;  // 控制箱图层
+  var TLayer;  // 文本图层
+  var CenterMarker;  // 当前中心点记录
+  var zlMapWay = "OnlineMap";
+  var ClickTarget // 当前点击对象
+  require(["esri/map", "gzzl/GoogleLayer", "esri/geometry/Point", "dojo/domReady!static/frame", "esri/symbols/TextSymbol"],
+    function (Map, GoogleLayer, Point) {
+
+      var config = store.get('Config');
+
+      var point = {lon:113.420059, lat:22.9542935};
+
+      if (typeof (config) != 'undefined') {
+        zlMapWay = config[0].MapType;
+        if (zlMapWay == 'GaoDeLocalMap') {
+          zlMapWay = 'LocalMap';
+        }
+        else if (zlMapWay == 'DPMap') {
+          zlMapWay = 'DPMap';
+        }
+        else {
+          zlMapWay = "OnlineMap";
+        }
+        point = {
+          lon: config[0].gisJD,
+          lat: config[0].gisWD
+        };
+      }
+
+      map = new Map("mapDiv", { logo: false });
+
+      map.setZoom(10);
+
+      // dojo.connect(map, "onClick", MapOnClick);
+
+      var basemap = new GoogleLayer({ GetMapWay: zlMapWay });
+
+      ELayer = new esri.layers.GraphicsLayer();
+
+      TLayer = new esri.layers.GraphicsLayer();
+
+      map.addLayer(basemap);
+
+      // 给 map 添加 ELayer 图层
+      map.addLayer(ELayer);
+
+      // 给 map 添加 TLayer 图层
+      map.addLayer(TLayer);
+
+      // todo 给 Elayer 图层添加 鼠标点击事件
+
+      ELayer.on('click', function (ev) {
+
+        // 删除info窗口 '缩放至'节点
+        var oSpan = document.getElementsByClassName('actionList')
+        for(var i=0; i < oSpan.length; i++) {
+          oSpan[i].parentNode.removeChild(oSpan[i])
+        }
+
+        // 依据 ev 对象，设置 新的 地图中心点
+        var currentPoint = ev.graphic.attributes
+
+        ClickTarget = currentPoint
+
+        if (CenterMarker == currentPoint.terminalCode) {
+
+          UpdateCenter(currentPoint.longitude, currentPoint.latitude, currentPoint.title)
+
+        } else {
+
+          CenterMarker = currentPoint.terminalCode
+
+          window.parent.$this.resetSelectArr(ev)
+
+        }
+
+      })
+
+      // todo 给 Elayer 图层添加 鼠标移入事件
+      ELayer.on('mouse-over', function (ev) {
+        // console.log(ev)
+        var currentTips = ev.graphic.attributes.title
+        //console.log(currentTips)
+        // 鼠标样式及提示
+        $('#mapDiv image').css({
+          cursor: 'pointer'
+        })
+      })
+
+      // todo 给 Elayer 图层添加 鼠标移出事件
+      ELayer.on('mouse-out', function (ev) {
+      })
+
+      // 地图初始化
+      UpdateCenter(point.lon, point.lat, '初始化')
+
+    });
+
+  /* --------------- 地图信息加载 end -------------------- */
+
+  // 更新中心点
+  function UpdateCenter(jd, wd, title) {
+
+    console.log('更新中心点' + title)
+
+    var point = wgs2gcj(wd, jd);
+
+    var mypoint = { x: point.lng, y: point.lat };
+
+    mypoint = lonlat2mercator(mypoint);
+
+    var zoom = 18;
+
+    if (zlMapWay == 'DPMap') {
+      zoom = 8;
+      mypoint = { x: jd, y: wd };
+    }
+
+    var pt = new esri.geometry.Point(mypoint.x, mypoint.y, map.spatialReference);
+
+    map.setZoom(zoom);
+
+    map.centerAt(pt);
+
+  }
+
+  function changeMaPSize() {
+
+    var ParentTarget = $(window.parent.$this.$refs.ViewBox)[0]
+    var ClientWidth = ParentTarget.clientWidth
+    var ClientHeight = ParentTarget.clientHeight
+    var MapBox = $('#mapDiv')
+
+    MapBox.css('width', ClientWidth)
+    MapBox.css('height', ClientHeight)
+
+  }
+
+  // 点坐标转换：经纬度转换成墨卡托
+  function GetwgsTomercator(jd, wd) {
+    var point = wgs2gcj(wd, jd);
+    var mypoint = { x: point.lng, y: point.lat };
+    return lonlat2mercator(mypoint);
+  }
+
+
+/* ----- -----  Vue 调用 iframe 方法 begin  ----- ----- */
+
+  // 添加 文本图层、图片图层 upDateMarkers
+  window.upDateMarkers = function (points) {
+
+    console.log('添加 文本图层、图片图层')
+
+    // console.log(points)
+
+    for (var i = 0; i < points.length; i++) {
+
+      var p = points[i]
+
+      var point = GetwgsTomercator(p.longitude, p.latitude)
+
+      var pt = new esri.geometry.Point(point.x, point.y, map.spatialReference);
+
+      // 图片标志
+      var pictureSymbol = new esri.symbol.PictureMarkerSymbol("./ArcGISApi/images/base.gif", 16, 16)
+
+      // 设置 图片图层鼠标点击时，弹出信息窗
+      var attr = {
+        title: p.title,
+        terminalCode: p.terminalCode,
+        IsAllNormal: p.IsAllNormal,
+        longitude: p.longitude,
+        latitude: p.latitude,
+        objectCode: p.objectCode
+      }
+
+      var template = '   <div>\n' +
+        '          <p onclick=respond() ' +
+        '             onmouseover="moreDetails(this)"\n' +
+        '             onmouseout="quitDetails(this)"\n' +
+        '             style="font-size: 16px;cursor: pointer;background: grey;padding: 2px 4px;border: 1px solid beige">\n' +
+        '             <spn style="user-select: none">查看实时状态图/详情信息</spn>\n' +
+        '          </p>\n' +
+        '        </div>`'
+
+      var infoTemplate = new esri.InfoTemplate("${title}", template);
+
+      var pictureMarker = new esri.Graphic(pt, pictureSymbol, attr, infoTemplate)
+
+      ELayer.add(pictureMarker)
+
+      // 文本标志
+      /*var textColor = textSymbolColor(p.IsAllNormal)
+      var textSymbol = new esri.symbol.TextSymbol({
+        text: p.IsAllNormal ? '正常' : '存在异常',
+        color: textColor,
+        yoffset:14
+      })
+
+      var textMarker = new esri.Graphic(pt, textSymbol)
+
+      TLayer.add(textMarker)*/
+
+    }
+
+  }
+
+
+  function upDateMapStatus (points) {
+
+    console.log('更新文本信息')
+
+    //console.log(TLayer.graphics.length)
+
+    TLayer.clear()
+
+    console.log(TLayer.graphics.length)
+
+    /*for (var i = 0; i < points.length; i++) {
+
+      var p = points[i]
+
+      var point = GetwgsTomercator(p.longitude, p.latitude)
+
+      var pt = new esri.geometry.Point(point.x, point.y, map.spatialReference);
+
+      // 文本标志
+      var textColor = textSymbolColor(p.IsAllNormal)
+
+      var textSymbol = new esri.symbol.TextSymbol({
+        text: p.IsAllNormal ? '正常' : '存在异常',
+        color: textColor,
+        fontFamily: '微软雅黑',
+        fontSize: 12,
+        strokeWidth: 2,
+        fontWeight: 'bold',
+        yoffset: 14
+      })
+
+      var textMarker = new esri.Graphic(pt, textSymbol)
+
+      TLayer.add(textMarker)
+
+    }*/
+
+    var p = {
+      longitude: 113.256321,
+      latitude: 23.134251
+    }
+
+    var point = GetwgsTomercator(p.longitude, p.latitude)
+
+    var pt = new esri.geometry.Point(point.x, point.y);
+
+    var textSymbol = new esri.symbol.TextSymbol({
+      text: p.IsAllNormal ? '正常' : '存在异常',
+      yoffset: 14
+    })
+
+    var textMarker = new esri.Graphic(pt, textSymbol)
+
+    TLayer.add(textMarker)
+  }
+
+  // 判断字体颜色
+  function textSymbolColor (textStatus) {
+    if (textStatus) {
+      return [0,100,0]
+    } else {
+      return [176,7,14]
+    }
+  }
+
+/* ----- -----   Vue 调用 iframe 方法  end  ----- ----- */
+
+
+/* ------------ iframe 回调 Vue 方法 ------------------ */
+
+  // info框 鼠标移入移出事件
+  function moreDetails (target) {
+    $(target).css({
+      color:'#ffcd32',
+      border: '1px solid #409eff'
+    }).attr('title', '点击查看详情')
+  }
+
+  function quitDetails (target) {
+    $(target).css({
+      color:'black',
+      border: '1px solid beige'
+    })
+  }
+  // info框点击事件
+  window.respond = function () {
+    window.parent.$this.respond(ClickTarget)
+  }
+
+/* ------------ iframe 回调 Vue 方法 ------------------ */
+</script>
+</body>
+</html>

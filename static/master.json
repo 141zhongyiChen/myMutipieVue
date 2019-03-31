@@ -1,0 +1,346 @@
+{
+  "listTreeData": [
+    {
+      "title": "亚运大道1号箱",
+      "children": [],
+      "objData": {
+        "isUsed": true,
+        "terminalCode": "1000000000048209",
+        "longitude": 113.398,
+        "latitude": 22.93811,
+        "type": "Master",
+        "pinYin": "YaYunDaDao1HaoXiang"
+      }
+    },
+    {
+      "title": "亚运大道2号箱",
+      "children": [],
+      "objData": {
+        "isUsed": true,
+        "terminalCode": "1000000000048212",
+        "longitude": 113.4068,
+        "latitude": 22.9394,
+        "type": "Master",
+        "pinYin": "YaYunDaDao2HaoXiang"
+      }
+    },
+    {
+      "title": "亚运大道3号箱",
+      "children": [],
+      "objData": {
+        "isUsed": true,
+        "terminalCode": "1000000000048210",
+        "longitude": 113.419236412109,
+        "latitude": 22.9388259701082,
+        "type": "Master",
+        "pinYin": "YaYunDaDao3HaoXiang"
+      }
+    },
+    {
+      "title": "亚运大道4号箱",
+      "children": [],
+      "objData": {
+        "isUsed": true,
+        "terminalCode": "1000000000048203",
+        "longitude": 113.4322,
+        "latitude": 22.9403,
+        "type": "Master",
+        "pinYin": "YaYunDaDao4HaoXiang"
+      }
+    },
+    {
+      "title": "亚运大道5号箱",
+      "children": [],
+      "objData": {
+        "isUsed": true,
+        "terminalCode": "1000000000048204",
+        "longitude": 113.448011234053,
+        "latitude": 22.943644378645,
+        "type": "Master",
+        "pinYin": "YaYunDaDao5HaoXiang"
+      }
+    },
+    {
+      "title": "亚运大道6号箱",
+      "children": [],
+      "objData": {
+        "isUsed": true,
+        "terminalCode": "1000000000048207",
+        "longitude": 113.4621,
+        "latitude": 22.9475,
+        "type": "Master",
+        "pinYin": "YaYunDaDao6HaoXiang"
+      }
+    },
+    {
+      "title": "亚运大道7号箱",
+      "children": [],
+      "objData": {
+        "isUsed": true,
+        "terminalCode": "1000000000048208",
+        "longitude": 113.4755,
+        "latitude": 22.952,
+        "type": "Master",
+        "pinYin": "YaYunDaDao7HaoXiang"
+      }
+    },
+    {
+      "title": "亚运大道8号箱",
+      "children": [],
+      "objData": {
+        "isUsed": true,
+        "terminalCode": "1000000000048205",
+        "longitude": 113.484,
+        "latitude": 22.9556,
+        "type": "Master",
+        "pinYin": "YaYunDaDao8HaoXiang"
+      }
+    },
+    {
+      "title": "傍雁路",
+      "children": [],
+      "objData": {
+        "isUsed": true,
+        "terminalCode": "1000000000048211",
+        "longitude": 113.4053116,
+        "latitude": 22.9434406,
+        "type": "Master",
+        "pinYin": "BangYanLu"
+      }
+    },
+    {
+      "title": "长沙路",
+      "children": [],
+      "objData": {
+        "isUsed": true,
+        "terminalCode": "1000000000048206",
+        "longitude": 113.421412,
+        "latitude": 22.9526957,
+        "type": "Master",
+        "pinYin": "ChangShaLu"
+      }
+    },
+    {
+      "title": "龙坑村",
+      "children": [],
+      "objData": {
+        "isUsed": true,
+        "terminalCode": "1000000000023670",
+        "longitude": 113.78913,
+        "latitude": 24.992436,
+        "type": "Master",
+        "pinYin": "LongKengCun"
+      }
+    },
+    {
+      "title": "龟头石村",
+      "children": [],
+      "objData": {
+        "isUsed": true,
+        "terminalCode": "1000000000023671",
+        "longitude": 113.814562,
+        "latitude": 24.971812,
+        "type": "Master",
+        "pinYin": "GuiTouShiCun"
+      }
+    },
+    {
+      "title": "黄坑路口",
+      "children": [],
+      "objData": {
+        "isUsed": true,
+        "terminalCode": "1000000000023673",
+        "longitude": 113.814623,
+        "latitude": 24.971795,
+        "type": "Master",
+        "pinYin": "HuangKengLuKou"
+      }
+    },
+    {
+      "title": "周田大桥",
+      "children": [],
+      "objData": {
+        "isUsed": true,
+        "terminalCode": "1000000000023667",
+        "longitude": 113.7455222,
+        "latitude": 25.0891979,
+        "type": "Master",
+        "pinYin": "ZhouTianDaQiao"
+      }
+    },
+    {
+      "title": "常州演示单灯",
+      "children": [],
+      "objData": {
+        "isUsed": true,
+        "terminalCode": "1000000000044756",
+        "longitude": 119.9701067,
+        "latitude": 31.8406171,
+        "type": "Master",
+        "pinYin": "ChangZhouYanShiDanDeng"
+      }
+    }
+  ],
+  "regionTreeData": [
+    {
+      "title": "亚运大道",
+      "children": [
+        {
+          "title": "亚运大道1号箱",
+          "children": [],
+          "objData": {
+            "isUsed": true,
+            "terminalCode": "1000000000048209",
+            "longitude": 113.398,
+            "latitude": 22.93811,
+            "type": "Master",
+            "pinYin": "YaYunDaDao1HaoXiang"
+          }
+        },
+        {
+          "title": "亚运大道2号箱",
+          "children": [],
+          "objData": {
+            "isUsed": true,
+            "terminalCode": "1000000000048212",
+            "longitude": 113.4068,
+            "latitude": 22.9394,
+            "type": "Master",
+            "pinYin": "YaYunDaDao2HaoXiang"
+          }
+        },
+        {
+          "title": "亚运大道3号箱",
+          "children": [],
+          "objData": {
+            "isUsed": true,
+            "terminalCode": "1000000000048210",
+            "longitude": 113.419236412109,
+            "latitude": 22.9388259701082,
+            "type": "Master",
+            "pinYin": "YaYunDaDao3HaoXiang"
+          }
+        },
+        {
+          "title": "亚运大道4号箱",
+          "children": [],
+          "objData": {
+            "isUsed": true,
+            "terminalCode": "1000000000048203",
+            "longitude": 113.4322,
+            "latitude": 22.9403,
+            "type": "Master",
+            "pinYin": "YaYunDaDao4HaoXiang"
+          }
+        },
+        {
+          "title": "亚运大道8号箱",
+          "children": [
+            {
+              "title": "亚运大道5号箱",
+              "children": [],
+              "objData": {
+                "isUsed": true,
+                "terminalCode": "1000000000048204",
+                "longitude": 113.448011234053,
+                "latitude": 22.943644378645,
+                "type": "Master",
+                "pinYin": "YaYunDaDao5HaoXiang"
+              }
+            },
+            {
+              "title": "亚运大道6号箱",
+              "children": [],
+              "objData": {
+                "isUsed": true,
+                "terminalCode": "1000000000048207",
+                "longitude": 113.4621,
+                "latitude": 22.9475,
+                "type": "Master",
+                "pinYin": "YaYunDaDao6HaoXiang"
+              }
+            },
+            {
+              "title": "亚运大道7号箱",
+              "children": [],
+              "objData": {
+                "isUsed": true,
+                "terminalCode": "1000000000048208",
+                "longitude": 113.4755,
+                "latitude": 22.952,
+                "type": "Master",
+                "pinYin": "YaYunDaDao7HaoXiang"
+              }
+            }
+          ],
+          "objData": {
+            "type": "Master",
+            "pinYin": "YaYunDaDao8HaoXiang"
+          }
+        }
+      ],
+      "objData": {
+        "type": "Region",
+        "pinYin": "YaYunDaDao"
+      }
+    },
+    {
+      "title": "仁化县",
+      "children": [
+        {
+          "title": "龙坑村",
+          "children": [],
+          "objData": {
+            "isUsed": true,
+            "terminalCode": "1000000000023670",
+            "longitude": 113.78913,
+            "latitude": 24.992436,
+            "type": "Master",
+            "pinYin": "LongKengCun"
+          }
+        },
+        {
+          "title": "龟头石村",
+          "children": [],
+          "objData": {
+            "isUsed": true,
+            "terminalCode": "1000000000023671",
+            "longitude": 113.814562,
+            "latitude": 24.971812,
+            "type": "Master",
+            "pinYin": "GuiTouShiCun"
+          }
+        },
+        {
+          "title": "黄坑路口",
+          "children": [],
+          "objData": {
+            "isUsed": true,
+            "terminalCode": "1000000000023673",
+            "longitude": 113.814623,
+            "latitude": 24.971795,
+            "type": "Master",
+            "pinYin": "HuangKengLuKou"
+          }
+        },
+        {
+          "title": "周田大桥",
+          "children": [],
+          "objData": {
+            "isUsed": true,
+            "terminalCode": "1000000000023667",
+            "longitude": 113.7455222,
+            "latitude": 25.0891979,
+            "type": "Master",
+            "pinYin": "ZhouTianDaQiao"
+          }
+        }
+      ],
+      "objData": {
+        "type": "Region",
+        "pinYin": "RenHuaXian"
+      }
+    }
+  ],
+  "lightingTypeTreeData": []
+}

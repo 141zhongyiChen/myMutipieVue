@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="c79c40e3-1399-40e8-9e3d-0282ec023a8f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="vue" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="stylus" />
+        <option value="index.vue" />
+        <option value="JavaScript File" />
+        <option value="package_json" />
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>modalData</find>
+      <find>endData</find>
+      <find>onRowClick</find>
+      <find>setCurRow</find>
+      <find>handleDownload</find>
+      <find>setting</find>
+      <find>requestCodes</find>
+      <find>getOrSetRow</find>
+      <find>TerOrHisDesign</find>
+      <find>handleOptChange</find>
+      <find>fullHeight</find>
+      <find>WriSel</find>
+      <find>ShowDesignModal</find>
+      <find>_constructModalData</find>
+      <find>selectOrderChange</find>
+      <find>showAllRecord</find>
+      <find>confirmDialog</find>
+      <find>ReadSel</find>
+      <find>IsVoltageAlarm</find>
+      <find>columnsInfo</find>
+      <find>getTableData</find>
+      <find>runningBaseED</find>
+      <find>myDiagram</find>
+      <find>staticElectricalDiagram</find>
+      <find>beginPaintElectricalDiagram</find>
+      <find>queryDiagramData</find>
+      <find>diagramCreateCompleted</find>
+      <find>canUpdateStatusTimerCallback</find>
+      <find>runningDiagram</find>
+      <find>_getData</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/pages/new/router/index.js" />
+        <option value="$USER_HOME$/Desktop/分享/vue-devtools/vue-devtools/manifest.json" />
+        <option value="$PROJECT_DIR$/src/pages/new/components/masterFrame/utils/uniqueOriginalData.js" />
+        <option value="$PROJECT_DIR$/node_modules/element-ui/packages/tree/src/tree.vue" />
+        <option value="$PROJECT_DIR$/src/common/stylus/base.styl" />
+        <option value="$PROJECT_DIR$/src/pages/Test/Test.html" />
+        <option value="$PROJECT_DIR$/src/pages/Test/components/masterFrame/utils/getBrowserInfo.js" />
+        <option value="$PROJECT_DIR$/src/pages/Test/components/masterFrame/masterFrame.vue" />
+        <option value="$PROJECT_DIR$/config/pagePathSetting.js" />
+        <option value="$PROJECT_DIR$/static/tsconfig.json" />
+        <option value="$PROJECT_DIR$/static/myDir.json" />
+        <option value="$PROJECT_DIR$/src/pages/new/components/masterFrame/searchComplete/searchComplete.vue" />
+        <option value="$PROJECT_DIR$/src/components/masterFrame/searchComplete/searchComplete.vue" />
+        <option value="$USER_HOME$/Desktop/table.vue" />
+        <option value="$PROJECT_DIR$/src/pages/CommandOfTerminal/realTimeCommandStatus/router/index.js" />
+        <option value="$PROJECT_DIR$/static/test.json" />
+        <option value="$PROJECT_DIR$/src/pages/RuntimeStatus/realTimeProtection/realTimeProtectionH.vue" />
+        <option value="$PROJECT_DIR$/src/pages/RuntimeStatus/realTimeProtection/router/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/RuntimeStatus/realTimeProtection/realTimeProtection.vue" />
+        <option value="$PROJECT_DIR$/src/pages/RuntimeStatus/realTimeProtection/components/table.vue" />
+        <option value="$PROJECT_DIR$/src/base/contextmenu/VueContextMenu.vue" />
+        <option value="E:/Vue整理后/src/pages/RuntimeStatus/realTimeProtection/components/table.vue" />
+        <option value="E:/Vue整理后/src/pages/RuntimeStatus/realTimeProtection/realTimeProtection.vue" />
+        <option value="$PROJECT_DIR$/src/pages/CommandOfTerminal/realTimeCommandStatus/components/commandStatus/commandStatus.vue" />
+        <option value="$PROJECT_DIR$/src/pages/new/components/masterFrame/treeContent/treeContent.vue" />
+        <option value="$PROJECT_DIR$/src/pages/new/new.vue" />
+        <option value="$PROJECT_DIR$/src/pages/new/components/masterFrame/masterFrame.vue" />
+        <option value="$PROJECT_DIR$/src/pages/index/router/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/LightingModeSetting/LightingModeSetting.html" />
+        <option value="$PROJECT_DIR$/src/pages/LightingModeSetting/LightingModeSetting.js" />
+        <option value="$PROJECT_DIR$/src/components/masterFrame/treeContent/treeContent.vue" />
+        <option value="E:/Vue整理后/src/pages/RuntimeStatus/realTimeProtectionH/components/table.vue" />
+        <option value="$USER_HOME$/Desktop/知识点积累/JqGrid/LightingModeSetting/components/terminalLightTime.vue" />
+        <option value="$USER_HOME$/Desktop/kendo/examples/grid/api.html" />
+        <option value="$PROJECT_DIR$/src/pages/LightingModeSetting/LightingModeSetting.vue" />
+        <option value="$PROJECT_DIR$/src/pages/LightingModeTabs/LightingModeTabs.vue" />
+        <option value="$PROJECT_DIR$/src/pages/index/index.vue" />
+        <option value="$PROJECT_DIR$/static/AllData.json" />
+        <option value="$PROJECT_DIR$/static/kendo.json" />
+        <option value="$PROJECT_DIR$/src/pages/RuntimeStatus/realTimeProtectionH/realTimeProtectionH.vue" />
+        <option value="$PROJECT_DIR$/src/components/masterFrame/masterFrame.vue" />
+        <option value="$PROJECT_DIR$/static/gojs.json" />
+        <option value="$PROJECT_DIR$/src/pages/RuntimeStatus/assetsElectricalDiagram/components/electricalDiagram/staticElectricalDiagram.vue" />
+        <option value="$PROJECT_DIR$/src/pages/RuntimeStatus/assetsElectricalDiagram/components/electricalDiagram/runningBaseED.vue" />
+        <option value="$PROJECT_DIR$/static/package.json" />
+        <option value="$PROJECT_DIR$/static/treeSetting.json" />
+        <option value="$PROJECT_DIR$/static/tree.json" />
+        <option value="$PROJECT_DIR$/src/pages/SystemParameterSetting/treeManagementSetting/components/showSetting/showQuery.vue" />
+        <option value="$PROJECT_DIR$/src/pages/SystemParameterSetting/treeManagementSetting/components/filterSetting/filterQuery.vue" />
+        <option value="$PROJECT_DIR$/src/pages/SystemParameterSetting/LightingModeTabs/LightingModeTabs.vue" />
+        <option value="$PROJECT_DIR$/src/pages/RuntimeStatus/realTimeProtectionH/components/table.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="2" />
+    <option name="y" value="6" />
+    <option name="width" value="1940" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="新主控" type="b2602c69:ProjectViewProjectNode" />
+              <item name="新主控" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="新主控" type="b2602c69:ProjectViewProjectNode" />
+              <item name="新主控" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="新主控" type="b2602c69:ProjectViewProjectNode" />
+              <item name="新主控" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="新主控" type="b2602c69:ProjectViewProjectNode" />
+              <item name="新主控" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="masterFrame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="新主控" type="b2602c69:ProjectViewProjectNode" />
+              <item name="新主控" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="新主控" type="b2602c69:ProjectViewProjectNode" />
+              <item name="新主控" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="RuntimeStatus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="新主控" type="b2602c69:ProjectViewProjectNode" />
+              <item name="新主控" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="RuntimeStatus" type="462c0819:PsiDirectoryNode" />
+              <item name="realTimeProtectionH" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="新主控" type="b2602c69:ProjectViewProjectNode" />
+              <item name="新主控" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="RuntimeStatus" type="462c0819:PsiDirectoryNode" />
+              <item name="realTimeProtectionH" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="新主控" type="b2602c69:ProjectViewProjectNode" />
+              <item name="新主控" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="SystemParameterSetting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="新主控" type="b2602c69:ProjectViewProjectNode" />
+              <item name="新主控" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="SystemParameterSetting" type="462c0819:PsiDirectoryNode" />
+              <item name="LightingModeTabs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="新主控" type="b2602c69:ProjectViewProjectNode" />
+              <item name="新主控" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="E:\Work-space\Platform0703-2300\node_modules\eslint" />
+    <property name="standardjs.codestyle.accepted" value="true" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.standard" value="E:\Work-space\Platform0703-2300\node_modules\eslint" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Work-space\新主控\src\pages\LightingModeSetting" />
+      <recent name="E:\Work-space\新主控\static" />
+      <recent name="E:\Work-space\新主控\src\components\masterFrame\treeContent" />
+      <recent name="E:\Work-space\新主控\src\pages" />
+      <recent name="E:\Work-space\新主控\src\pages\test\A01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Work-space\新主控\src\pages\LightingModeTabs" />
+      <recent name="E:\Work-space\新主控\src\pages\LightingModeSetting\components" />
+      <recent name="E:\Work-space\新主控\src\components" />
+      <recent name="E:\Work-space\新主控\src\pages\LightingModeSetting" />
+      <recent name="E:\Work-space\新主控\src\pages\RuntimeStatus\realTimeProtection" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c79c40e3-1399-40e8-9e3d-0282ec023a8f" name="Default" comment="" />
+      <created>1530148478725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530148478725</updated>
+      <workItem from="1530148479813" duration="2847000" />
+      <workItem from="1530152271745" duration="16143000" />
+      <workItem from="1530172313489" duration="4106000" />
+      <workItem from="1530368202127" duration="2988000" />
+      <workItem from="1530430304979" duration="24072000" />
+      <workItem from="1530489772057" duration="29924000" />
+      <workItem from="1530533659673" duration="5521000" />
+      <workItem from="1530576141213" duration="7442000" />
+      <workItem from="1530583831246" duration="24644000" />
+      <workItem from="1530613597398" duration="80000" />
+      <workItem from="1530622673498" duration="1321000" />
+      <workItem from="1530624555204" duration="5014000" />
+      <workItem from="1530662646709" duration="29932000" />
+      <workItem from="1530774722041" duration="7233000" />
+      <workItem from="1530836670818" duration="26846000" />
+      <workItem from="1530963759695" duration="461000" />
+      <workItem from="1530964269104" duration="31000" />
+      <workItem from="1530964515742" duration="8550000" />
+      <workItem from="1531011543319" duration="28000" />
+      <workItem from="1531012205394" duration="7082000" />
+      <workItem from="1531094590087" duration="98000" />
+      <workItem from="1531094766962" duration="14929000" />
+      <workItem from="1531114246800" duration="22351000" />
+      <workItem from="1531181152277" duration="17895000" />
+      <workItem from="1531205000093" duration="17546000" />
+      <workItem from="1531224732905" duration="19000" />
+      <workItem from="1531267305037" duration="30391000" />
+      <workItem from="1531303371278" duration="9859000" />
+      <workItem from="1531353658629" duration="180000" />
+      <workItem from="1531353888311" duration="307000" />
+      <workItem from="1531354505880" duration="7000" />
+      <workItem from="1531354961717" duration="15064000" />
+      <workItem from="1531374901980" duration="15970000" />
+      <workItem from="1531394000577" duration="3786000" />
+      <workItem from="1531440588141" duration="14537000" />
+      <workItem from="1531461602815" duration="12469000" />
+      <workItem from="1531699724891" duration="7484000" />
+      <workItem from="1531708456353" duration="29566000" />
+      <workItem from="1531786236234" duration="22398000" />
+      <workItem from="1531813210204" duration="10365000" />
+      <workItem from="1531872095641" duration="1209000" />
+      <workItem from="1531875311773" duration="12290000" />
+      <workItem from="1531895846620" duration="12519000" />
+      <workItem from="1531912402006" duration="4239000" />
+      <workItem from="1531958370754" duration="20661000" />
+      <workItem from="1531987124617" duration="9932000" />
+      <workItem from="1531999032787" duration="4024000" />
+      <workItem from="1532045728457" duration="26272000" />
+      <workItem from="1532078937731" duration="345000" />
+      <workItem from="1532304178042" duration="9057000" />
+      <workItem from="1532318364975" duration="10602000" />
+      <workItem from="1532335131302" duration="3928000" />
+      <workItem from="1532390853878" duration="21845000" />
+      <workItem from="1532418093757" duration="14319000" />
+      <workItem from="1532477182564" duration="34050000" />
+      <workItem from="1532563500231" duration="18030000" />
+      <workItem from="1532587167120" duration="17082000" />
+      <workItem from="1532650185664" duration="24378000" />
+      <workItem from="1532908692966" duration="21000" />
+      <workItem from="1532908877294" duration="22296000" />
+      <workItem from="1532936926467" duration="4847000" />
+      <workItem from="1532995206466" duration="1967000" />
+      <workItem from="1533003851952" duration="10337000" />
+      <workItem from="1533035506880" duration="3766000" />
+      <workItem from="1533081912243" duration="232000" />
+      <workItem from="1533086485176" duration="284000" />
+      <workItem from="1533113147309" duration="3037000" />
+      <workItem from="1533168051454" duration="7488000" />
+      <workItem from="1533262859547" duration="8129000" />
+      <workItem from="1533514785625" duration="8969000" />
+      <workItem from="1533601226974" duration="30477000" />
+      <workItem from="1533690043981" duration="13718000" />
+      <workItem from="1533709093565" duration="19036000" />
+      <workItem from="1533738497405" duration="4437000" />
+      <workItem from="1533773110061" duration="6240000" />
+      <workItem from="1533798251926" duration="2480000" />
+      <workItem from="1534243516403" duration="3622000" />
+      <workItem from="1534292156779" duration="4000" />
+      <workItem from="1534292180837" duration="21350000" />
+      <workItem from="1534378247170" duration="24257000" />
+      <workItem from="1534420610502" duration="396000" />
+      <workItem from="1534466671938" duration="16562000" />
+      <workItem from="1534723702893" duration="31790000" />
+      <workItem from="1534813494240" duration="608000" />
+      <workItem from="1534983254037" duration="29668000" />
+      <workItem from="1535069147581" duration="23091000" />
+      <workItem from="1535328477819" duration="11948000" />
+      <workItem from="1535341763364" duration="19501000" />
+      <workItem from="1535416325376" duration="15495000" />
+      <workItem from="1535438263691" duration="9277000" />
+      <workItem from="1535448814462" duration="7851000" />
+      <workItem from="1535501479351" duration="16627000" />
+      <workItem from="1535523731130" duration="11197000" />
+      <workItem from="1535587847254" duration="12668000" />
+      <workItem from="1535673831102" duration="3127000" />
+      <workItem from="1535933493137" duration="24288000" />
+      <workItem from="1536019427671" duration="19704000" />
+      <workItem from="1536056901067" duration="6268000" />
+      <workItem from="1536106196403" duration="1427000" />
+      <workItem from="1536119318287" duration="1725000" />
+      <workItem from="1536218440204" duration="7491000" />
+      <workItem from="1536299045822" duration="3708000" />
+      <workItem from="1536538761543" duration="18749000" />
+      <workItem from="1536567509830" duration="11664000" />
+      <workItem from="1536624502793" duration="4409000" />
+      <workItem from="1536631522815" duration="5434000" />
+      <workItem from="1536640304803" duration="8102000" />
+      <workItem from="1536661387293" duration="2013000" />
+      <workItem from="1536826786361" duration="4485000" />
+      <workItem from="1536883532743" duration="14139000" />
+      <workItem from="1536975011392" duration="1074000" />
+      <workItem from="1537230820072" duration="7215000" />
+      <workItem from="1537242836937" duration="97000" />
+      <workItem from="1537242940389" duration="6957000" />
+      <workItem from="1537259556665" duration="2856000" />
+      <workItem from="1537323334477" duration="4597000" />
+      <workItem from="1537360246786" duration="519000" />
+      <workItem from="1537401141152" duration="226000" />
+      <workItem from="1537401391429" duration="33000" />
+      <workItem from="1537411661108" duration="10389000" />
+      <workItem from="1537428648527" duration="1372000" />
+      <workItem from="1537430382216" duration="6464000" />
+      <workItem from="1537491311160" duration="8546000" />
+      <workItem from="1537525285876" duration="192000" />
+      <workItem from="1537829848413" duration="1114000" />
+      <workItem from="1537831227426" duration="5005000" />
+      <workItem from="1537840511021" duration="28242000" />
+      <workItem from="1537920711008" duration="34024000" />
+      <workItem from="1538004001349" duration="30747000" />
+      <workItem from="1538093323855" duration="14381000" />
+      <workItem from="1538136271585" duration="11000" />
+      <workItem from="1538178839064" duration="6157000" />
+      <workItem from="1538266279738" duration="3666000" />
+      <workItem from="1538273847975" duration="9321000" />
+      <workItem from="1538959122184" duration="8590000" />
+      <workItem from="1539044418975" duration="626000" />
+      <workItem from="1539045463796" duration="851000" />
+      <workItem from="1539069637763" duration="389000" />
+      <workItem from="1539070227894" duration="673000" />
+      <workItem from="1539077033811" duration="1001000" />
+      <workItem from="1539084012530" duration="601000" />
+      <workItem from="1539130144374" duration="26701000" />
+      <workItem from="1539217737515" duration="11497000" />
+      <workItem from="1539302969337" duration="25535000" />
+      <workItem from="1539562263449" duration="34426000" />
+      <workItem from="1539650570272" duration="13422000" />
+      <workItem from="1539668967200" duration="18752000" />
+      <workItem from="1539735247429" duration="33245000" />
+      <workItem from="1539821313012" duration="32406000" />
+      <workItem from="1539907154276" duration="11108000" />
+      <workItem from="1539931140797" duration="6833000" />
+      <workItem from="1540167348362" duration="23755000" />
+      <workItem from="1540253375979" duration="17867000" />
+      <workItem from="1540339981303" duration="26088000" />
+      <workItem from="1540426711779" duration="3066000" />
+      <workItem from="1540432982844" duration="4354000" />
+      <workItem from="1540437862846" duration="22721000" />
+      <workItem from="1540512871497" duration="24754000" />
+      <workItem from="1540704435096" duration="405000" />
+      <workItem from="1540771708644" duration="438000" />
+      <workItem from="1540772593016" duration="27900000" />
+      <workItem from="1540858837984" duration="21252000" />
+      <workItem from="1540944614817" duration="17797000" />
+      <workItem from="1541031107055" duration="23482000" />
+      <workItem from="1541117079006" duration="10281000" />
+      <workItem from="1541376911939" duration="14213000" />
+      <workItem from="1541417662922" duration="5000" />
+      <workItem from="1541463459667" duration="19843000" />
+      <workItem from="1541550596279" duration="31545000" />
+      <workItem from="1541636104865" duration="7417000" />
+      <workItem from="1541664260740" duration="10793000" />
+      <workItem from="1541722243495" duration="26617000" />
+      <workItem from="1541907393233" duration="17173000" />
+      <workItem from="1541927637397" duration="988000" />
+      <workItem from="1541981512876" duration="15015000" />
+      <workItem from="1542004641388" duration="10290000" />
+      <workItem from="1542067454358" duration="28591000" />
+      <workItem from="1542154223925" duration="23186000" />
+      <workItem from="1542240857127" duration="32969000" />
+      <workItem from="1542327133208" duration="8261000" />
+      <workItem from="1542586066814" duration="23281000" />
+      <workItem from="1542672786174" duration="18013000" />
+      <workItem from="1542761254321" duration="25426000" />
+      <workItem from="1542841610995" duration="11231000" />
+      <workItem from="1542932334240" duration="13082000" />
+      <workItem from="1543191261387" duration="8040000" />
+      <workItem from="1543277359666" duration="18707000" />
+      <workItem from="1543363991401" duration="22283000" />
+      <workItem from="1543450042731" duration="15151000" />
+      <workItem from="1543536862577" duration="15580000" />
+      <workItem from="1543815020651" duration="14715000" />
+      <workItem from="1543882442948" duration="27308000" />
+      <workItem from="1544055503004" duration="13687000" />
+      <workItem from="1544141002828" duration="8371000" />
+      <workItem from="1544402864518" duration="23931000" />
+      <workItem from="1544487360713" duration="33830000" />
+      <workItem from="1544573410943" duration="24160000" />
+      <workItem from="1544660111170" duration="25724000" />
+      <workItem from="1544746308386" duration="13157000" />
+      <workItem from="1545005320056" duration="15678000" />
+      <workItem from="1545091996279" duration="23542000" />
+      <workItem from="1545179997690" duration="32411000" />
+      <workItem from="1545265047866" duration="27751000" />
+      <workItem from="1545350894313" duration="15053000" />
+      <workItem from="1545610916196" duration="1000" />
+      <workItem from="1545611695838" duration="20620000" />
+      <workItem from="1545696411351" duration="13547000" />
+      <workItem from="1545737093846" duration="611000" />
+      <workItem from="1545782713601" duration="22214000" />
+      <workItem from="1545869379470" duration="32062000" />
+      <workItem from="1545956257082" duration="24159000" />
+      <workItem from="1546042395319" duration="22431000" />
+      <workItem from="1546128451471" duration="29530000" />
+      <workItem from="1546387907028" duration="26971000" />
+      <workItem from="1546493493560" duration="15203000" />
+      <workItem from="1546560379814" duration="28955000" />
+      <workItem from="1546906119140" duration="34832000" />
+      <workItem from="1546992863515" duration="27294000" />
+      <workItem from="1547079399090" duration="13155000" />
+      <workItem from="1547098330245" duration="12723000" />
+      <workItem from="1547117518703" duration="2109000" />
+      <workItem from="1547165814443" duration="19145000" />
+      <workItem from="1547268800957" duration="943000" />
+      <workItem from="1547424943854" duration="35150000" />
+      <workItem from="1547473877299" duration="2130000" />
+      <workItem from="1547476136057" duration="5528000" />
+      <workItem from="1547511271352" duration="27848000" />
+      <workItem from="1547597149118" duration="70564000" />
+      <workItem from="1547770230033" duration="22037000" />
+      <workItem from="1547956614119" duration="11395000" />
+      <workItem from="1548029619073" duration="17973000" />
+      <workItem from="1548052198288" duration="10027000" />
+      <workItem from="1548115374291" duration="27993000" />
+      <workItem from="1548202375200" duration="48581000" />
+      <workItem from="1548312454519" duration="9929000" />
+      <workItem from="1548337552940" duration="5927000" />
+      <workItem from="1548375372537" duration="25145000" />
+      <workItem from="1548634162085" duration="23329000" />
+      <workItem from="1548720791598" duration="45000" />
+      <workItem from="1548724304219" duration="623000" />
+      <workItem from="1548727796226" duration="3000" />
+      <workItem from="1548750791762" duration="131000" />
+      <workItem from="1550538212665" duration="531000" />
+      <workItem from="1551055089835" duration="23773000" />
+      <workItem from="1551139653854" duration="28744000" />
+      <workItem from="1551225914510" duration="29014000" />
+      <workItem from="1551312842200" duration="28678000" />
+      <workItem from="1551400227700" duration="18964000" />
+      <workItem from="1551658868063" duration="28906000" />
+      <workItem from="1551744851387" duration="25676000" />
+      <workItem from="1551831350572" duration="26324000" />
+      <workItem from="1551917297615" duration="27781000" />
+      <workItem from="1552003626378" duration="29935000" />
+      <workItem from="1552263318443" duration="27100000" />
+      <workItem from="1552349183107" duration="14831000" />
+      <workItem from="1552435561509" duration="26461000" />
+      <workItem from="1552522740686" duration="24682000" />
+      <workItem from="1552609012227" duration="24188000" />
+      <workItem from="1552868101504" duration="51495000" />
+      <workItem from="1553040570670" duration="3645000" />
+      <workItem from="1553046065729" duration="110552000" />
+      <workItem from="1553645780726" duration="126000" />
+      <workItem from="1553645911022" duration="65880000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3893877000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22286618" sideWeight="0.8374718" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2147303" sideWeight="0.37334177" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14712644" sideWeight="0.62665826" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1719243" sideWeight="0.16252822" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31012657" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2147303" sideWeight="0.37334177" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14712644" sideWeight="0.62665826" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1719243" sideWeight="0.16252822" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22286618" sideWeight="0.8374718" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31012657" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/test/router/index.js</url>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="277" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/pages/new/components/masterFrame/treeContent/treeContent.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="864" column="9" lean-forward="false" selection-start-line="864" selection-start-column="9" selection-end-line="864" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Vue整理后/package.json" />
+    <entry file="file://$USER_HOME$/Desktop/JqGrid/LightingModeSetting/LightingModeSetting.vue" />
+    <entry file="file://$USER_HOME$/Desktop/JqGrid/LightingModeSetting/components/terminalLightTime.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/masterFrame/treeContent/treeContent.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="906" column="30" lean-forward="true" selection-start-line="906" selection-start-column="30" selection-end-line="906" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/masterFrame/utils/uniqueOriginalData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/treeModule/states.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/知识点积累/kendoGrid/kendo/examples/grid/sorting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="47" column="46" lean-forward="true" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/知识点积累/kendoGrid/kendo/examples/grid/detailtemplate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/new/components/masterFrame/masterFrame.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="193" column="7" lean-forward="true" selection-start-line="181" selection-start-column="4" selection-end-line="193" selection-end-column="7" />
+          <folding>
+            <element signature="e#506#2003#0" expanded="false" />
+            <element signature="n#Modal#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="e#3534#4556#0" expanded="false" />
+            <element signature="e#4004#4292#0" expanded="false" />
+            <element signature="e#4632#4793#0" expanded="false" />
+            <element signature="e#4858#4884#0" expanded="false" />
+            <element signature="e#4919#4990#0" expanded="false" />
+            <element signature="e#5287#5481#0" expanded="false" />
+            <element signature="e#5556#5682#0" expanded="false" />
+            <element signature="e#6223#6367#0" expanded="false" />
+            <element signature="e#6403#6469#0" expanded="false" />
+            <element signature="e#6500#6742#0" expanded="false" />
+            <element signature="e#6814#7063#0" expanded="false" />
+            <element signature="e#7104#7233#0" expanded="false" />
+            <element signature="e#7275#7387#0" expanded="false" />
+            <element signature="e#7404#7612#0" expanded="false" />
+            <element signature="e#7633#7801#0" expanded="false" />
+            <element signature="e#7854#8180#0" expanded="false" />
+            <element signature="e#8209#9275#0" expanded="false" />
+            <element signature="e#8444#8770#0" expanded="false" />
+            <element signature="e#9300#9365#0" expanded="false" />
+            <element signature="e#9444#10225#0" expanded="false" />
+            <element signature="e#11714#13071#0" expanded="false" />
+            <element signature="e#13114#13584#0" expanded="false" />
+            <element signature="e#13662#14001#0" expanded="false" />
+            <element signature="e#14063#14129#0" expanded="false" />
+            <element signature="e#14151#14422#0" expanded="false" />
+            <element signature="e#14495#15032#0" expanded="false" />
+            <element signature="e#15092#15138#0" expanded="false" />
+            <element signature="e#16095#16730#0" expanded="false" />
+            <element signature="e#20191#20645#0" expanded="false" />
+            <element signature="e#20692#21021#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/知识点积累/kendoGrid/kendo/examples/grid/checkbox-selection.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/知识点积累/kendoGrid/kendo/examples/grid/editing-custom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="36" column="35" lean-forward="true" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/kendo/examples/grid/copy-to-excel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Vue整理后/src/pages/RuntimeStatus/realTimeProtectionH/components/table.vue" />
+    <entry file="file://$USER_HOME$/Desktop/kendo/js/kendo.excel.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/kendo/js/jszip.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10315">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@progress/kendo-ui/js/excel/kendo-excel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Vue整理后/node_modules/@progress/kendo-ui/js/excel/main.js" />
+    <entry file="file://E:/Vue整理后/node_modules/@progress/kendo-ui/js/kendo.excel.js" />
+    <entry file="file://$USER_HOME$/Desktop/kendo/examples/grid/api.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/LightingModeSetting/LightingModeSetting.js" />
+    <entry file="file://E:/Vue整理后/src/pages/RuntimeStatus/assetsElectricalDiagram/assetsElectricalDiagram.vue" />
+    <entry file="file://E:/Vue整理后/src/pages/RuntimeStatus/assetsElectricalDiagram/components/electricalDiagram/staticElectricalDiagram.vue" />
+    <entry file="file://$USER_HOME$/Desktop/知识点积累/JqGrid/LightingModeSetting/components/terminalLightTime.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="217" column="60" lean-forward="false" selection-start-line="217" selection-start-column="60" selection-end-line="217" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@progress/kendo-vue-excel-export/dist/cdn/js/kendo-vue-excel-export.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20841">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Vue整理/node_modules/@progress/kendo-vue-excel-export/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-511">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Vue整理/node_modules/@progress/kendo-vue-excel-export/dist/cdn/js/kendo-vue-excel-export.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="0" column="3270" lean-forward="false" selection-start-line="0" selection-start-column="3270" selection-end-line="0" selection-end-column="3270" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/LightingModeTabs/LightingModeTabs.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="264" column="7" lean-forward="false" selection-start-line="264" selection-start-column="7" selection-end-line="264" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/LightingModeSetting/components/LightingModeSetting.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="105" column="12" lean-forward="true" selection-start-line="98" selection-start-column="6" selection-end-line="105" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/LightingModeTabs/LightingModeTabs.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="535" column="4" lean-forward="true" selection-start-line="535" selection-start-column="4" selection-end-line="535" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Vue整理/src/pages/RuntimeStatus/realTimeProtectionH/components/table.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2356">
+          <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#template#0;n#el-table-column#1;n#el-table#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/LightingModeSetting/LightingModeSetting.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8056">
+          <caret line="433" column="18" lean-forward="false" selection-start-line="433" selection-start-column="18" selection-end-line="433" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="73" column="32" lean-forward="false" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/AllData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="24939" column="13" lean-forward="false" selection-start-line="24939" selection-start-column="13" selection-end-line="24939" selection-end-column="13" />
+          <folding>
+            <element signature="e#20#600608#0" expanded="false" />
+            <element signature="e#600742#623791#0" expanded="false" />
+            <element signature="e#600756#601198#0" expanded="false" />
+            <element signature="e#601212#601652#0" expanded="false" />
+            <element signature="e#601666#602106#0" expanded="false" />
+            <element signature="e#602120#602562#0" expanded="false" />
+            <element signature="e#602576#603020#0" expanded="false" />
+            <element signature="e#603034#603482#0" expanded="false" />
+            <element signature="e#603496#603936#0" expanded="false" />
+            <element signature="e#603950#604391#0" expanded="false" />
+            <element signature="e#604405#604842#0" expanded="false" />
+            <element signature="e#604856#605300#0" expanded="false" />
+            <element signature="e#605314#605754#0" expanded="false" />
+            <element signature="e#605768#606198#0" expanded="false" />
+            <element signature="e#606212#606676#0" expanded="false" />
+            <element signature="e#606690#607138#0" expanded="false" />
+            <element signature="e#607152#607592#0" expanded="false" />
+            <element signature="e#607606#608058#0" expanded="false" />
+            <element signature="e#608072#608540#0" expanded="false" />
+            <element signature="e#608554#609001#0" expanded="false" />
+            <element signature="e#609015#609458#0" expanded="false" />
+            <element signature="e#609472#609916#0" expanded="false" />
+            <element signature="e#609930#610431#0" expanded="false" />
+            <element signature="e#610445#610900#0" expanded="false" />
+            <element signature="e#610914#611353#0" expanded="false" />
+            <element signature="e#611367#611823#0" expanded="false" />
+            <element signature="e#611837#612301#0" expanded="false" />
+            <element signature="e#612315#612768#0" expanded="false" />
+            <element signature="e#612782#613225#0" expanded="false" />
+            <element signature="e#613239#613682#0" expanded="false" />
+            <element signature="e#613696#614152#0" expanded="false" />
+            <element signature="e#614166#614623#0" expanded="false" />
+            <element signature="e#614637#615070#0" expanded="false" />
+            <element signature="e#615084#615529#0" expanded="false" />
+            <element signature="e#615543#615964#0" expanded="false" />
+            <element signature="e#615978#616416#0" expanded="false" />
+            <element signature="e#616430#616876#0" expanded="false" />
+            <element signature="e#616890#617346#0" expanded="false" />
+            <element signature="e#617360#617814#0" expanded="false" />
+            <element signature="e#617828#618274#0" expanded="false" />
+            <element signature="e#618288#618736#0" expanded="false" />
+            <element signature="e#618750#619199#0" expanded="false" />
+            <element signature="e#619213#619675#0" expanded="false" />
+            <element signature="e#619689#620136#0" expanded="false" />
+            <element signature="e#620150#620592#0" expanded="false" />
+            <element signature="e#620606#621048#0" expanded="false" />
+            <element signature="e#621062#621509#0" expanded="false" />
+            <element signature="e#621523#621979#0" expanded="false" />
+            <element signature="e#621993#622425#0" expanded="false" />
+            <element signature="e#622439#622870#0" expanded="false" />
+            <element signature="e#622884#623328#0" expanded="false" />
+            <element signature="e#623342#623779#0" expanded="false" />
+            <element signature="e#720290#796552#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/kendo.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/gojs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="9489" lean-forward="false" selection-start-line="4" selection-start-column="9489" selection-end-line="4" selection-end-column="9489" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/RuntimeStatus/assetsElectricalDiagram/components/electricalDiagram/staticElectricalDiagram.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="530" column="45" lean-forward="false" selection-start-line="530" selection-start-column="24" selection-end-line="530" selection-end-column="45" />
+          <folding>
+            <element signature="e#9526#11168#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/RuntimeStatus/assetsElectricalDiagram/components/electricalDiagram/runningBaseED.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="122" column="32" lean-forward="true" selection-start-line="122" selection-start-column="32" selection-end-line="122" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#Row#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="e#1100#1122#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/SystemParameterSetting/treeManagementSetting/components/filterSetting/filterSetting.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/treeSetting.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="426" lean-forward="false" selection-start-line="0" selection-start-column="426" selection-end-line="0" selection-end-column="426" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/SystemParameterSetting/treeManagementSetting/components/showSetting/showSetting.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/tree.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="313" lean-forward="false" selection-start-line="0" selection-start-column="313" selection-end-line="0" selection-end-column="313" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/SystemParameterSetting/treeManagementSetting/components/showSetting/showQuery.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="84" column="3" lean-forward="false" selection-start-line="84" selection-start-column="3" selection-end-line="84" selection-end-column="3" />
+          <folding>
+            <element signature="n#div#0;n#template#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/SystemParameterSetting/treeManagementSetting/components/filterSetting/filterQuery.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="89" column="3" lean-forward="false" selection-start-line="89" selection-start-column="3" selection-end-line="89" selection-end-column="3" />
+          <folding>
+            <element signature="n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="e#9742#10225#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/masterFrame/masterFrame.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="394" column="8" lean-forward="true" selection-start-line="362" selection-start-column="6" selection-end-line="394" selection-end-column="8" />
+          <folding>
+            <element signature="e#9444#10228#0" expanded="false" />
+            <element signature="e#15136#16796#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/SystemParameterSetting/treeManagementSetting/treeManagementSetting.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/RuntimeStatus/realTimeProtectionH/realTimeProtectionH.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="520" column="30" lean-forward="true" selection-start-line="520" selection-start-column="30" selection-end-line="520" selection-end-column="30" />
+          <folding>
+            <element signature="n#div#3;n#div#0;n#masterFrame#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="e#5633#5642#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/RuntimeStatus/realTimeProtectionH/components/table.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="521" column="3" lean-forward="false" selection-start-line="521" selection-start-column="3" selection-end-line="521" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/SystemParameterSetting/LightingModeTabs/LightingModeTabs.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="450" column="26" lean-forward="true" selection-start-line="450" selection-start-column="26" selection-end-line="450" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

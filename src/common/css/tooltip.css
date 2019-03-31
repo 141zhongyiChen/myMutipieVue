@@ -1,0 +1,132 @@
+
+.ivu-tooltip {
+  display: inline-block
+}
+
+.ivu-tooltip-rel {
+  display: inline-block;
+  position: relative
+}
+
+.ivu-tooltip-popper {
+  display: block;
+  visibility: visible;
+  font-size: 12px;
+  line-height: 1.5;
+  position: absolute;
+  z-index: 1060
+}
+
+.ivu-tooltip-popper[x-placement^=top] {
+  padding: 5px 0 8px 0
+}
+
+.ivu-tooltip-popper[x-placement^=right] {
+  padding: 0 5px 0 8px
+}
+
+.ivu-tooltip-popper[x-placement^=bottom] {
+  padding: 8px 0 5px 0
+}
+
+.ivu-tooltip-popper[x-placement^=left] {
+  padding: 0 8px 0 5px
+}
+
+.ivu-tooltip-popper[x-placement^=top] .ivu-tooltip-arrow {
+  bottom: 3px;
+  border-width: 5px 5px 0;
+  border-top-color: rgba(70, 76, 91, .9)
+}
+
+.ivu-tooltip-popper[x-placement=top] .ivu-tooltip-arrow {
+  left: 50%;
+  margin-left: -5px
+}
+
+.ivu-tooltip-popper[x-placement=top-start] .ivu-tooltip-arrow {
+  left: 16px
+}
+
+.ivu-tooltip-popper[x-placement=top-end] .ivu-tooltip-arrow {
+  right: 16px
+}
+
+.ivu-tooltip-popper[x-placement^=right] .ivu-tooltip-arrow {
+  left: 3px;
+  border-width: 5px 5px 5px 0;
+  border-right-color: rgba(70, 76, 91, .9)
+}
+
+.ivu-tooltip-popper[x-placement=right] .ivu-tooltip-arrow {
+  top: 50%;
+  margin-top: -5px
+}
+
+.ivu-tooltip-popper[x-placement=right-start] .ivu-tooltip-arrow {
+  top: 8px
+}
+
+.ivu-tooltip-popper[x-placement=right-end] .ivu-tooltip-arrow {
+  bottom: 8px
+}
+
+.ivu-tooltip-popper[x-placement^=left] .ivu-tooltip-arrow {
+  right: 3px;
+  border-width: 5px 0 5px 5px;
+  border-left-color: rgba(70, 76, 91, .9)
+}
+
+.ivu-tooltip-popper[x-placement=left] .ivu-tooltip-arrow {
+  top: 50%;
+  margin-top: -5px
+}
+
+.ivu-tooltip-popper[x-placement=left-start] .ivu-tooltip-arrow {
+  top: 8px
+}
+
+.ivu-tooltip-popper[x-placement=left-end] .ivu-tooltip-arrow {
+  bottom: 8px
+}
+
+.ivu-tooltip-popper[x-placement^=bottom] .ivu-tooltip-arrow {
+  top: 3px;
+  border-width: 0 5px 5px;
+  border-bottom-color: rgba(70, 76, 91, .9)
+}
+
+.ivu-tooltip-popper[x-placement=bottom] .ivu-tooltip-arrow {
+  left: 50%;
+  margin-left: -5px
+}
+
+.ivu-tooltip-popper[x-placement=bottom-start] .ivu-tooltip-arrow {
+  left: 16px
+}
+
+.ivu-tooltip-popper[x-placement=bottom-end] .ivu-tooltip-arrow {
+  right: 16px
+}
+
+.ivu-tooltip-inner {
+  max-width: 250px;
+  min-height: 34px;
+  padding: 8px 12px;
+  color: #fff;
+  text-align: left;
+  text-decoration: none;
+  background-color: rgba(70, 76, 91, .9);
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, .2);
+  box-shadow: 0 1px 6px rgba(0, 0, 0, .2);
+  white-space: nowrap
+}
+
+.ivu-tooltip-arrow {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid
+}

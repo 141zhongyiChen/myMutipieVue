@@ -1,0 +1,32 @@
+.ivu-breadcrumb {
+  color: #999;
+  font-size: 14px
+}
+
+.ivu-breadcrumb a {
+  color: #495060;
+  -webkit-transition: color .2s ease-in-out;
+  transition: color .2s ease-in-out
+}
+
+.ivu-breadcrumb a:hover {
+  color: #57a3f3
+}
+
+.ivu-breadcrumb > span:last-child {
+  font-weight: 700;
+  color: #495060
+}
+
+.ivu-breadcrumb > span:last-child .ivu-breadcrumb-item-separator {
+  display: none
+}
+
+.ivu-breadcrumb-item-separator {
+  margin: 0 8px;
+  color: #dddee1
+}
+
+.ivu-breadcrumb-item-link > .ivu-icon + span {
+  margin-left: 4px
+}
